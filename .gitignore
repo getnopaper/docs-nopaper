@@ -4,3 +4,4 @@ NoSSH
 NoSSH.pub
 node_modules
 cache
+.gitignore
