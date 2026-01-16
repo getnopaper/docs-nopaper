@@ -34,6 +34,19 @@ Used exclusively for managing NFT creator roles and updating protocol metadata w
 - **Treasury (Operations & Salaries)**: `0x93fCD69aF907655360906049cCDA20e475eD7acB`
 Responsible for the sustainability of our operations, including salaries for the Editorial, Research, and Developer teams.
 
+### Team Wallets
+
+The following wallets are used by the NoPaper development team for various operational purposes:
+
+- **dApp Creator & Governance**: `0x0AB19e6f4Cfd28e81F67C66Df669E011e7Ad43ab`
+Used for NFT creation, governance metadata updates, and all dApp-related administrative functions.
+
+- **Deployment Tester**: `0x3BCA2C6eD535Ab75D4605e2490C93CB62FA143C0`
+Dedicated wallet for testing NoPaper deployment processes before production rollout.
+
+- **Smart Contract Tester**: `0xF50A6351ce6Db51Ca3528E19E7fFe92113CE9e20`
+Used for testing smart contract deployments before finalizing to the main NFT Creator address.
+
 ## Support the Mission
 
 NoPaper operates as a non-profit, community-driven initiative. Your support allows us to remain independent and continue our mission of rewarding eco-friendly habits globally.

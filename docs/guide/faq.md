@@ -88,9 +88,9 @@ Yes. Images are encrypted at rest in B2, and all API traffic uses HTTPS.
 4. Wait for AI verification (~10 seconds)
 
 ### What kind of receipts are accepted?
-- ✅ Digital screenshots of grocery receipts
-- ✅ E-receipts from organic/sustainable stores
-- ✅ Farmers market purchases
+- ✅ Digital screenshots of grocery receipts (Green Choice or Human Needs)
+- ✅ E-receipts from supermarkets, organic stores, or farmers markets
+- ✅ Essential household and hygiene products
 - ❌ Camera photos of paper receipts
 - ❌ Fuel, parking, or utility bills
 
@@ -130,9 +130,10 @@ Yes! You earn **B3TR tokens** for each approved submission.
 
 ### How are rewards calculated?
 Rewards depend on:
-1. **Wallet age** (older = more trusted = higher rewards)
-2. **Receipt quality** (more eco-items = higher reward)
-3. **VOT3 multiplier** (optional ecosystem bonus)
+1. **Submission Type** (Green Choice receives higher rewards)
+2. **Wallet age** (older = more trusted = higher rewards)
+3. **Receipt quality** (more items/higher value = higher reward)
+4. **VOT3 multiplier** (optional ecosystem bonus)
 
 ### Are rewards tradable or transferable?
 Yes! B3TR is a standard VeChain token. You can:

@@ -8,10 +8,10 @@ Voting for NoPaper in allocation rounds is **entirely optional**. There is no di
 
 | Tier | VOT3 Required | Bonus Multiplier |
 |------|---------------|------------------|
-| None | < 500 | 1x |
-| Bronze | ≥ 500 | **3x** |
-| Silver | ≥ 1,500 | **5x** |
-| Gold | ≥ 3,000 | **8x** |
+| None | < 2,500 | 1x |
+| Bronze | ≥ 2,500 | **3x** |
+| Silver | ≥ 7,500 | **5x** |
+| Gold | ≥ 15,000 | **8x** |
 
 ## How It Works
 

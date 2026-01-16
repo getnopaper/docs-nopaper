@@ -20,10 +20,10 @@ hero:
 features:
   - icon: 📸
     title: Proof of Action
-    details: Upload images of your sustainable purchases like organic groceries and eco-friendly products
-  - icon: 🤖
-    title: AI Verification
-    details: Our intelligent AI instantly verifies your submissions in real-time
+    details: Upload images of your sustainable purchases and daily essentials to earn rewards.
+  - icon: 🔍
+    title: Verification
+    details: Our Endorsers will verify your submissions in real-time
   - icon: 💰
     title: Earn B3TR Tokens
     details: Receive tangible rewards directly deposited into your VeChain wallet
@@ -34,7 +34,7 @@ features:
 
 ## Why NoPaper?
 
-NoPaper bridges the gap between individual sustainable actions and tangible value. By leveraging advanced AI verification and the VeBetterDAO ecosystem, NoPaper empowers you to monetize your eco-friendly habits.
+NoPaper bridges the gap between individual conscious actions and tangible value. By leveraging advanced AI verification and the VeBetterDAO ecosystem, NoPaper empowers you to monetize your sustainable habits and daily essentials.
 
 ### Featured on VeBetterDAO
 

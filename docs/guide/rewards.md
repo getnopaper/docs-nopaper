@@ -20,9 +20,14 @@ NoPaper receives B3TR allocations from VeBetterDAO's reward pool each **cycle** 
 
 Your base reward depends on:
 
-1. **Wallet Trust Level** (based on wallet age)
-2. **Receipt Quality** (items purchased)
-3. **Environmental Impact** (sustainability score)
+1. **Submission Type**: Green Choice vs. Human Needs
+2. **Wallet Trust Level**: Based on wallet age
+3. **Receipt Quality**: Number and type of items purchased
+4. **Environmental Impact**: Sustainability score (for Green Choice)
+
+::: info Green Choice vs. Human Needs
+While we now accept both Green Choice and Human Needs submissions, **Green Choice** receipts continue to receive higher rewards to incentivize sustainable behavior. Human Needs receipts are eligible for standard rewards.
+:::
 
 ```
 Final Reward = Base Reward × Ecosystem Multiplier
@@ -48,7 +53,11 @@ Holding VOT3 tokens in the VeBetterDAO ecosystem can provide a multi-layer boost
 - Medium purchases ($20-50): Middle range
 - Large purchases (&gt;$50): Closer to maximum
 
-### Eco-Friendly Bonus
+### Submission Type Bonus
+- **Green Choice**: Receipts featuring sustainable, organic, or local products receive the highest reward tier.
+- **Human Needs**: Standard grocery and essential items are rewarded at the base tier.
+
+### Eco-Friendly Bonus (Green Choice Only)
 - Organic stores: +20% bonus
 - Local farmers markets: +20% bonus
 - Certified sustainable products: +20% bonus

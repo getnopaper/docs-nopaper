@@ -16,8 +16,8 @@ NoPaper transforms your sustainable shopping habits into blockchain-verified rew
 
 When you upload a receipt, it's sent to our secure backend for processing. We accept:
 - Digital screenshots of grocery receipts
-- E-receipts from sustainable stores
-- Proof of organic/eco-friendly purchases
+- E-receipts from sustainable stores or local supermarkets
+- Proof of organic, eco-friendly, or essential human needs purchases
 
 ### The Verification Journey
 
@@ -37,9 +37,10 @@ If you are flagged for using multiple IP addresses (e.g., switching between WiFi
 
 Our GPT-4o powered AI analyzes your receipt:
 
-- Approved: Identifies sustainable items (organic, local, eco-certified)
+- Approved: Identifies submission type (Green Choice or Human Needs)
+- Approved: Identifies sustainable items (for Green Choice bonus)
 - Approved: Checks image quality and format
-- Approved: Calculates environmental impact
+- Approved: Calculates environmental impact or utility score
 - Approved: Determines validity score (0.0 - 1.0)
 
 ::: info Validity Threshold
@@ -74,16 +75,22 @@ Your wallet age affects your maximum reward:
 
 ## What Gets Approved?
 
-Approved:
+Approved (Green Choice):
 - Fresh fruits and vegetables
 - Organic/bio-certified products
 - Bulk water purchases
 - Farmers market receipts
 - Sustainable household items
 
+Approved (Human Needs):
+- Standard grocery items
+- Essential household goods
+- Daily necessities
+- Basic food and hygiene products
+
 Rejected:
-- Junk food, candy, soda
-- Plastic bags, disposable items
+- Extreme junk food, heavy candy, energy drinks
+- Plastic bags, disposable items (non-essential)
 - Fuel, parking, utility bills
 - Blurry or unreadable images
 - Photos of paper (must be digital)

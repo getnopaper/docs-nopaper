@@ -26,10 +26,8 @@ To ensure fair distribution of rewards, we enforce a strict **1 Smartphone + 1 I
 ### Step 1: Take a Screenshot
 
 Take a **clean digital screenshot** of your receipt. The receipt should be from:
-
-- Organic grocery stores
-- Farmers markets
-- Sustainable product purchases
+- **Green Choice**: Organic stores, farmers markets, and sustainable products
+- **Human Needs**: Standard supermarkets and daily essential groceries
 
 ::: warning Requirements
 - Must be a **digital screenshot** (not a photo of paper)
