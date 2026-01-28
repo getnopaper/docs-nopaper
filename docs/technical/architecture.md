@@ -1,34 +1,36 @@
 # How NoPaper Works
 
-NoPaper is a bridge between your eco-friendly actions and the blockchain. Our system is designed to be fast, secure, and user-friendly.
+NoPaper is a bridge between your eco-friendly actions and the blockchain. Our system is designed to be fast, secure, and user-friendly, utilizing high-performance asynchronous processing.
 
 ## System Overview
 
-The NoPaper ecosystem consists of three main parts:
+The NoPaper ecosystem consists of four main parts:
 
-1. **The App (Frontend)**: Your interface for connecting your wallet and uploading digital receipts.
-2. **The Brain (Backend & AI)**: Uses advanced AI (GPT-4o) to instantly verify your receipts and run security checks.
-3. **The Ledger (Blockchain)**: The VeChainThor blockchain, where rewards are sent and impact is recorded forever.
+1. **The App (Frontend)**: A modern interface for connecting your wallet and uploading digital receipts.
+2. **The High-Performance Queue**: A robust background worker system that handles computational tasks in parallel.
+3. **The AI Engine (Backend)**: Uses Combined AI (GPT-5.2 + Claude Opus 4.5) and custom security algorithms to verify receipts and run fraud checks.
+4. **The Ledger (Blockchain)**: The VeChainThor blockchain, where rewards are registered and impact is recorded permanently.
 
-## Our Technology
+## Our Technology Stack
 
-We use world-class technologies to ensure a seamless experience:
+We use state-of-the-art technologies to ensure a premium, lag-free experience:
 
-- **AI Verification**: We use state-of-the-art computer vision to analyze your grocery receipts and identify sustainable purchases.
-- **Secure Storage**: Your original receipt data is stored in encrypted, private storage, while only a blurred version is used for public blockchain proof.
-- **Blockchain Infrastructure**: Built on the energy-efficient VeChainThor network, ensuring your rewards are decentralized and verifiable.
+- **Asynchronous Processing**: We offload heavy tasks (like AI validation and blockchain transactions) to background workers. This allows users to receive instant confirmation while the "Brain" works in the background.
+- **AI-Vision Verification**: We use advanced computer vision to analyze grocery receipts and accurately identify sustainable purchases.
+- **Dual-Layer Proof**: Your original receipt data is stored in encrypted, private storage, while a cryptographically blinded version is used for public blockchain proof.
+- **Scalable Infrastructure**: Built on the energy-efficient VeChainThor network, with a Redis-backed queuing system for enterprise-grade reliability.
 
 ## The Submission Journey
 
-1. **Capture**: You take a screenshot of your digital receipt.
-2. **Analyze**: Our AI scans the receipt for organic products, eco-friendly certifications, and local produce.
-3. **Verify**: Security checks ensure you are a genuine user on a genuine device.
-4. **Reward**: The smart contract automatically sends B3TR tokens to your VeWorld wallet.
-5. **Impact**: Your contribution to a greener planet is recorded on your profile.
+1. **Capture & Upload**: You share a digital receipt. The app instantly acknowledges it and adds it to your history with a **"Validating"** status.
+2. **Fast-Queue Security**: High-priority background workers run instant checks for device integrity and network quality.
+3. **Deep AI Scan**: Our AI engine analyzes the content for eco-friendly products and calculates your sustainability score.
+4. **On-Chain Settlement**: Once approved, our workers securely register the transaction on the VeChain blockchain.
+5. **Real-Time Reward**: Your earned B3TR tokens arrive in your wallet, and your impact history is updated in real-time.
 
-## Security Partners
+## Ecosystem Integrity
 
-To keep the platform fair, we integrate with industry leaders for:
-- **Geolocation**: Ensuring users are not using VPNs or fake locations.
-- **Wallet Trust**: Verifying the age and history of wallets to prevent bot farming.
-- **VeBetterDAO**: Collaborating with the wider VeChain ecosystem for sustainable governance.
+To keep the platform fair, we integrate with industry-leading security practices:
+- **VeBetterDAO Governance**: Aligning with ecosystem standards for sustainability and transparency.
+- **Hardware Binding**: Using unique device signatures to prevent sybil attacks.
+- **Community Moderation**: VIP Endorsers provide a human layer of trust for complex validation cases.

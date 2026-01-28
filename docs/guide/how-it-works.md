@@ -4,33 +4,32 @@ NoPaper transforms your sustainable shopping habits into blockchain-verified rew
 
 ## The Submission Flow
 
-### From Receipt to Reward in Seconds
+### High-Performance Validation in Real-Time
 
-1. **Upload** Share a screenshot of your digital receipt.
-2. **Scan** Our security layers ensure a fair playing field.
-3. **Verify** AI identifies your eco-friendly purchases.
-4. **Record** Your impact is recorded on the VeChain network.
-5. **Earn** B3TR tokens arrive directly in your wallet.
+1. **Upload**: Share a screenshot of your digital receipt. You'll get an instant "Success" message while we scan the details.
+2. **Track**: Your submission appears in your history with a **"Validating"** status.
+3. **Verify**: High-speed background workers run AI and security checks.
+4. **Record**: Once approved, your impact is permanently recorded on the blockchain.
+5. **Earn**: B3TR tokens are automatically sent to your wallet.
 
 ### 1. Upload Your Receipt
 
-When you upload a receipt, it's sent to our secure backend for processing. We accept:
-- Digital screenshots of grocery receipts
+When you upload a receipt, it's instantly securely processed by our asynchronous engine. We accept:
+- Digital screenshots of grocery receipts (Retail apps, checkout screens)
 - E-receipts from sustainable stores or local supermarkets
-- Proof of organic, eco-friendly, or essential human needs purchases
+- Proof of organic, eco-friendly, or daily essential purchases
 
 ### The Verification Journey
 
-- **Step 1: Rate Limiting** Ensures fair access for all users.
-- **Step 2: Device & Network** Enforces the 1 Smartphone + 1 IP rule.
-- **Step 3: VPN Detection** Blocks proxies and non-mobile networks.
-- **Step 4: Image Analysis** Detects duplicates and modified images.
-- **Step 5: VIP Endorsers** Human moderation for new or flagged wallets.
-- **Step 6: AI Validation** Full content analysis of your purchase.
-- **Step 7: Reward Approval** Your tokens are sent!
+- **Step 1: Instant Security Scan** Real-time checks for device integrity and network quality.
+- **Step 2: High-Priority AI Scan** Background workers analyze the receipt content for valid items.
+- **Step 3: Sybil Protection** Advanced on-chain analysis ensures a fair playing field for everyone.
+- **Step 4: Multiplier Check** We calculate bonuses based on your ecosystem participation.
+- **Step 5: Blockchain Registry** Your submission is registered on the VeChain blockchain.
+- **Step 6: Instant Reward** tokens are transferred directly to your App wallet.
 
-::: warning Account Flags
-If you are flagged for using multiple IP addresses (e.g., switching between WiFi and Mobile Data frequently), you may be temporarily blocked. See [Security & Trust](/technical/security) for our appeal process.
+::: tip Live Status Tracking
+You can watch the progress of your validation live in your **Submission History**. Most receipts are fully analyzed and rewarded within 15-30 seconds!
 :::
 
 ### 3. AI Analysis
